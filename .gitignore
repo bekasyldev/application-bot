@@ -1,0 +1,24 @@
+# Keys and sensitive files
+*.json
+key_google_drive.json
+key_shet.json
+admins.json
+
+# dotenv
+.env
+.env.*
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+venv/
+.VENV/
+
+# Logs and runtime files
+*.log
+nohup.out
+
+
+# Caches
+__pycache__
