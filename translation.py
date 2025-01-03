@@ -17,7 +17,7 @@ TEXTS = {
     },
     'reviewed_button': {
         'en': "I have reviewed the pitch deck ✅",
-        'ru': "Я ознакомился с питч деком ✅",
+        'ru': "Я ознакомился с питч деком! ✅",
         'zh': "我已查看推介材料 ✅",
         'id': "Saya telah meninjau pitch deck ✅",
         'fil': "Nasuri ko na ang pitch deck ✅",
